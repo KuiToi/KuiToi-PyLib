@@ -41,13 +41,12 @@ setup(
     install_requires=requires,
     license=about['__license__'],
     classifiers=[
-        "Development Status :: 3 - Alpha",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Natural Language :: Russian",
         "Programming Language :: Python :: 3 :: Only",
-        "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.10",
-        "License :: MIT",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
     project_urls={

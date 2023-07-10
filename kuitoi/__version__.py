@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-__title__ = 'KuiToi-PyLib'
+__title__ = 'KuiToi'
 __description__ = 'Library for highlighting of KuiToi Server API.'
 __url__ = 'https://github.com/KuiToi/KuiToi-PyLib'
 __version__ = '0.0.1'
